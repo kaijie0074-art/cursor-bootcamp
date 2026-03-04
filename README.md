@@ -1,21 +1,22 @@
-# Cursor Bootcamp Todo App
+# Todo App
 
-A simple full-stack todo application built with:
+一个简单的 Todo Web 应用。
+
+技术栈：
 
 - Node.js
 - Express
 - SQLite
-- Vanilla JavaScript
+- Cursor
+- Vercel
 
-## Features
+功能：
 
-- User authentication
-- Session login
-- Todo CRUD
-- SQLite persistence
+- 用户登录
+- 添加任务
+- 完成任务
+- 删除任务
 
-## Run locally
+在线地址：
 
-```bash
-npm install
-node server.js
+https://cursor-bootcamp.vercel.app
